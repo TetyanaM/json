@@ -45,7 +45,7 @@
         "banana",
         "vanilla ice cream",
         "brown sugar",
-				"chocolate chips"
+	"chocolate chips"
       ],
       "image": "ice-cream-xtra2.svg"
     }
@@ -56,7 +56,7 @@
       "ingredients": [
         "lime juice",
         "milk",
-				"heavy cream",
+	"heavy cream",
         "candy sprinkles"
       ],
       "image": "ice-cream-xtra1.svg"
