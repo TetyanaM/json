@@ -37,5 +37,29 @@
       ],
       "image": "strawberry-sprinkle.svg"
     }
+    {
+      "name": "Banana foster",
+      "calories": 400,
+      "type": "ice cream",
+      "ingredients": [
+        "banana",
+        "vanilla ice cream",
+        "brown sugar",
+				"chocolate chips"
+      ],
+      "image": "ice-cream-xtra2.svg"
+    }
+		{
+      "name": "Tangy Lime",
+      "calories": 425,
+      "type": "ice cream",
+      "ingredients": [
+        "lime juice",
+        "milk",
+				"heavy cream",
+        "candy sprinkles"
+      ],
+      "image": "ice-cream-xtra1.svg"
+    }
   ]
 }
